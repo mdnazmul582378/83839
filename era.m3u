@@ -1,5 +1,56 @@
 #EXTM3U
 
+#EXTINF:-1, The Dark Knight  
+#CATEGORY: Action | Crime | Drama  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/8/83/Dark_Knight.jpg  
+https://terabox.com/sharing/embed?surl=thedarkknight&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, The Notebook  
+#CATEGORY: Romance | Drama | Comedy  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/9/99/The_Notebook_2004.jpg  
+https://terabox.com/sharing/embed?surl=thenotebook&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, Spirited Away  
+#CATEGORY: Animation | Fantasy | Adventure  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/3/3d/Spirited_Away_poster.jpg  
+https://terabox.com/sharing/embed?surl=spiritedaway&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, Inception  
+#CATEGORY: Science Fiction | Thriller | Action  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg  
+https://terabox.com/sharing/embed?surl=inception&resolution=720&autoplay=true&mute=true  
+"Science Fiction": "fas fa-rocket", "Thriller": "fas fa-cogs", "Action": "fas fa-fist-raised"
+
+#EXTINF:-1, 50 Shades of Grey  
+#CATEGORY: Adult | Drama | Romance  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/e/e8/Fifty_Shades_of_Grey.png  
+https://terabox.com/sharing/embed?surl=fiftyshades&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, A Nightmare on Elm Street  
+#CATEGORY: Horror | Mystery | Thriller  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/2/2f/A_Nightmare_on_Elm_Street_%281984%29_poster.jpg  
+https://terabox.com/sharing/embed?surl=nightmareonelmstreet&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, Deadpool  
+#CATEGORY: Comedy | Action | Adventure  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/4/47/Deadpool_poster.jpg  
+https://terabox.com/sharing/embed?surl=deadpool&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, The Pursuit of Happyness  
+#CATEGORY: Biography | Drama | Inspirational  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/8/88/Pursuit_of_Happyness.jpg  
+https://terabox.com/sharing/embed?surl=pursuitofhappyness&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, Sherlock Holmes  
+#CATEGORY: Crime | Adventure | Mystery  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/4/44/Sherlock_Holmes_2009_film_poster.jpg  
+https://terabox.com/sharing/embed?surl=sherlockholmes&resolution=720&autoplay=true&mute=true  
+
+#EXTINF:-1, Barefoot Gen  
+#CATEGORY: Animation | Drama | Biography  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/6/6b/Barefoot_Gen.jpg  
+https://terabox.com/sharing/embed?surl=barefootgen&resolution=720&autoplay=true&mute=true
+
 #EXTINF:-1, Pushpa 2: The Rule
 #CATEGORY: Featured | Action | Drama | Thriller
 #LOGO: https://upload.wikimedia.org/wikipedia/en/1/11/Pushpa_2-_The_Rule.jpg
@@ -59,3 +110,25 @@ https://terabox.com/sharing/embed?surl=exampleLink5&resolution=720&autoplay=true
 #CATEGORY: Featured | Action | Crime | Thriller
 #LOGO: https://upload.wikimedia.org/wikipedia/en/thumb/7/73/John_Wick_Chapter_4_poster.jpg/220px-John_Wick_Chapter_4_poster.jpg
 https://terabox.com/sharing/embed?surl=exampleLink6&resolution=720&autoplay=true&mute=true
+
+#EXTINF:-1, One Piece Film Red  
+#CATEGORY: Animation | Adventure | Action  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/a/a9/One_Piece_Film_Red.jpg  
+https://terabox.com/sharing/embed?surl=onepiecefilmred&resolution=720&autoplay=true&mute=true
+
+#EXTINF:-1, Fifty Shades of Grey  
+#CATEGORY: Romance | Drama | Adult  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/e/e8/Fifty_Shades_of_Grey.png  
+https://terabox.com/sharing/embed?surl=fiftyshades&resolution=720&autoplay=true&mute=true
+
+#EXTINF:-1, Luca  
+#CATEGORY: Animation | Romance | Comedy  
+#LOGO: https://upload.wikimedia.org/wikipedia/en/3/3f/Luca_%282021_film%29.png  
+https://terabox.com/sharing/embed?surl=luca&resolution=720&autoplay=true&mute=true
+
+
+
+
+
+
+
